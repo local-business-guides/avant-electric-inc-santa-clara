@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/avant-electric-inc-santa-clara/sitemap.xml
