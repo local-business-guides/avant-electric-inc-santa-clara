@@ -25,6 +25,9 @@
 - [Electrician close to me Santa Clara](https://local-business-guides.github.io/avant-electric-inc-santa-clara/electrician-close-to-me-santa-clara/): Need an electrician close to me Santa Clara? Get repair and installation needs reviewed before work begins. Call Avant Electric Inc. to discuss your project.
 - [Electrician closest to me Santa Clara](https://local-business-guides.github.io/avant-electric-inc-santa-clara/electrician-closest-to-me-santa-clara/): Looking for an electrician closest to me Santa Clara? Plan repairs or upgrades with clear written pricing. Contact Avant Electric Inc. about your project.
 
+## Newsroom
+- [Avant Electric Inc. Releases Electrician Santa Clara CA Guide](https://local-business-guides.github.io/avant-electric-inc-santa-clara/news/2026-11-06-avant-electric-inc-releases-electrician-santa/): Avant Electric Inc. published a guide for people planning electrical work in Santa Clara, with related video, podcast and audio editions. (2026-11-06)
+
 ## Pages
 - [Electrician in Santa Clara, California](https://local-business-guides.github.io/avant-electric-inc-santa-clara/): Get clear guidance and electrical work for your home or business in Santa Clara, from repairs to new installations. Call +1408-688-1546.
 - [About Avant Electric Inc.](https://local-business-guides.github.io/avant-electric-inc-santa-clara/about/): About Avant Electric Inc., Santa Clara.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/avant-electric-inc-santa-clara/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/avant-electric-inc-santa-clara/news/rss.xml)
 - [Main resource site](https://avant-electric-santa-clara.localwebsites.chatgpt.site)
